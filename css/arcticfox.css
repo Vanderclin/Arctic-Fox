@@ -1,0 +1,19 @@
+
+
+.bg-arctic-fox {
+  background-color: #00BCD4;
+}
+
+.arctic-fox-title {
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.cp-background {
+  height: auto;
+  padding: 5px;
+  border: solid 1px red;
+  background-image: url("../assets/images/arcticfox_logo.png");
+  object-fit: contain;
+  width: 100%;
+}
